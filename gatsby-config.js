@@ -54,7 +54,7 @@ module.exports = {
       options: {
         analyzerMode: `static`,
         reportFilename: `_bundle.html`,
-        openAnalyzer: false,
+        openAnalyzer: true,
       },
     },
   ].filter(Boolean),
